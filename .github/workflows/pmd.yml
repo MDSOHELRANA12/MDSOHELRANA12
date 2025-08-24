@@ -5,7 +5,7 @@
 
 name: pmd
 
-on:https://www.appcreator24.com/app3517357-dzupy3
+on:
   push:
     branches: [ "main" ]
   pull_request:
@@ -15,7 +15,7 @@ on:https://www.appcreator24.com/app3517357-dzupy3
 
 permissions:
   contents: read
-https://dev2062074.topdeveloper.info
+
 jobs:
   pmd-code-scan:
     permissions:
